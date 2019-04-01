@@ -1,0 +1,34 @@
+OBJECTIVE OF THE PROJECT-> STOCK PRICES TREND PREDICTION USING SENTIMENT ANALYSIS ON TWEETS AND NEWS HEADLINES FEED
+- Predicting the trend of stock prices for 5 companies - Apple, Tesla, Microsoft, JP Morgan and Boeing
+- Analyzing how twitter posts affect stock prices,
+- Analysing how news feed affects stock prices and
+- Analysing how the popularity of a brand in market at a particular time has influenced the stock prices.
+
+
+On the presentation day, following team members provided us the feedback on understanding and improving our project:
+1. SAMPATH ALLU
+2. ABHILASH TIRUVEEDHULA
+3. DEEPAK RAJA REDDY BILLA
+They posed us a question regarding:
+- How we plan to merge that Twitter and News Feed data 
+- Setting multiple bins of the sentiments in order to get more meaning from the sentiment analysis that is to be performed on Twitter and News data
+- Aggregating data wrt weekly/monthly to perform data analysis.
+- How will you employ scrapping too much data from Twitter.
+
+As our objectives have not changed since we submit the project proposal; we proceeded to encounter these feedbacks into our project's initial phase i.e.
+to get the data and perform analysis on it.
+- We plan to merge the data, once we have performed analysis on Twitter data and on News feed data. This is giving us the opportunity to find
+which source is serving as a more reliable source to impact the stock prices. Later in the process, we plan to employ the concept of weighted sentiments
+in order to get the combined sentiments from both datasets and then perform analysis to understand the impact on stock prices.
+- The idea of setting multiple bins to sentiments and thus categorizing them into 2-3 categories would be the best option for us to get the
+most from the textual information we have got from twitter as well as News Feed data.
+- We have the data that represents the information collected for the month of March. We'll continue the process of extracting data for about 2 weeks more.
+We don't need to aggregate the data in a weekly manner because we have all the other data with respect to dates, thus we can perform analysis on this data.
+- We have performed the process of scrapping the data from Twitter as a part of the daily process, because of all the limitations that Twitter applies
+to scrape the data using Twitter API. We still have managed to get the data from $(company ticker-symbol) Latest page on Twitter.
+
+We have found the benefits from the feedback as it has allowed us to question more details about the process and the scope of the process.
+
+
+
+
